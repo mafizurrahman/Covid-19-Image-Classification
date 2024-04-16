@@ -41,5 +41,5 @@ K-Fold Cross-Validation is used to ensure the robustness of the models. The resu
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 Contact
-Mafizur Rahman - @YourTwitter
+Mafizur Rahman 
 Project Link: https://github.com/yourusername/covid-recognition-cnn
